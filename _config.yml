@@ -6,9 +6,13 @@ color:
   saturation: 0.855667833937332
   rhythmicContrast: 0.851377755170688
   brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: Augmenting Reality
+navigation:
+  - name: VR & AR
+    url: 'http://amplifiedrobot.com'
+    type: external
