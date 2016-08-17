@@ -1,4 +1,3 @@
-layout_spectrum: 0.4902932427357882
 typography_spectrum: 0.8584456234239042
 color:
   brandStrength: 0.8840569844469428
@@ -11,8 +10,10 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.4902932427357882
 name: Augmenting Reality
 navigation:
   - name: VR & AR
     url: 'http://amplifiedrobot.com'
     type: external
+title: Everything VR & AR
